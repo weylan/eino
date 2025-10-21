@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// handler_builder.go 提供 HandlerBuilder 用于构建自定义回调处理器，支持链式调用设置各个生命周期的回调函数。
+
 package callbacks
 
 import (

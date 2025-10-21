@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// workflow.go 实现了 Workflow 编排，支持结构体字段级别的数据映射，提供更灵活的数据流转控制。
+
 package compose
 
 import (

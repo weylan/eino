@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// aspect_inject.go 实现了切面注入功能，为组件自动注入回调处理逻辑，支持流式和非流式场景。
+
 package callbacks
 
 import (

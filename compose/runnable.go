@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// runnable.go 定义了 Runnable 接口，提供统一的组件执行接口，支持 Invoke、Stream、Collect、Transform 四种执行模式。
+
 package compose
 
 import (

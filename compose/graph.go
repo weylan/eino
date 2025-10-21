@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// graph.go 实现了 Graph 编排，支持构建复杂的有向图（支持循环），提供分支、状态管理等高级功能。
+
 package compose
 
 import (

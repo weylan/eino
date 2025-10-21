@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// tool.go 定义了工具相关的数据结构，包括工具信息（ToolInfo）、工具调用（ToolCall）和工具参数定义。
+
 package schema
 
 import (

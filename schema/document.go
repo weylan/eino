@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// document.go 定义了文档类型和相关操作，包括文档内容、元数据和 ID 等信息。
+
 package schema
 
 const (

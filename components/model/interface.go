@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// interface.go 定义了 ChatModel 接口，用于与大语言模型交互，支持生成和流式生成。
+
 package model
 
 import (

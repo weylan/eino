@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// interface.go 定义了 Agent 的核心接口和基础类型，包括 Agent、Flow、Runner 等抽象。
+
 package adk
 
 import (

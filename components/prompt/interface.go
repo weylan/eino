@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// interface.go 定义了 ChatTemplate 接口，用于构建和格式化聊天提示词模板。
+
 package prompt
 
 import (

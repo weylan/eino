@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// interface.go 定义了回调机制的核心接口和类型，包括 Handler 接口、RunInfo 运行信息和回调输入输出类型。
+
 package callbacks
 
 import (

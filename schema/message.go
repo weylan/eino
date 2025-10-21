@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// message.go 定义了 LLM 交互的消息类型，包括 System、User、Assistant、Tool 等角色的消息结构和操作方法。
+
 package schema
 
 import (

@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// stream.go 实现了流式数据的读写器，提供 StreamReader 和 StreamWriter 用于处理流式数据传输。
+
 package schema
 
 import (

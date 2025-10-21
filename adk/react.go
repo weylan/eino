@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// react.go 实现了 ReAct（Reasoning and Acting）Agent 模式，支持推理和行动的循环执行。
+
 package adk
 
 import (

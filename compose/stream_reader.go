@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// stream_reader.go 提供流式数据读取器的包装和转换功能，支持流式数据的读取和处理。
+
 package compose
 
 import (

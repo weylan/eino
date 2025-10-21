@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// chain.go 实现了 Chain 编排，提供简单的链式组件组合，支持顺序执行多个组件。
+
 package compose
 
 import (
